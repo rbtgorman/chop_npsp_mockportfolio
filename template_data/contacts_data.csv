@@ -1,0 +1,36 @@
+First Name,Last Name,Email,Phone,Mailing Street,Mailing City,Mailing State,Mailing Zip,Donor Type,Notes
+Michael,Johnson,mjohnson@email.com,215-555-0101,123 Oak Street,Philadelphia,PA,19103,Major Donor,Johnson Household
+Sarah,Johnson,sjohnson@email.com,215-555-0101,123 Oak Street,Philadelphia,PA,19103,Major Donor,Johnson Household
+David,Chen,dchen@email.com,215-555-0202,456 Walnut Ave,Philadelphia,PA,19104,Major Donor,Chen Household
+Jennifer,Chen,jchen@email.com,215-555-0202,456 Walnut Ave,Philadelphia,PA,19104,Major Donor,Chen Household
+Robert,Williams,rwilliams@email.com,856-555-0303,789 Maple Lane,Cherry Hill,NJ,08002,Major Donor,Williams Household
+Lisa,Williams,lwilliams@email.com,856-555-0303,789 Maple Lane,Cherry Hill,NJ,08002,Major Donor,Williams Household
+James,Martinez,jmartinez@email.com,267-555-0404,234 Pine Street,Philadelphia,PA,19106,Major Donor,Martinez Household
+Maria,Martinez,mmartinez@email.com,267-555-0404,234 Pine Street,Philadelphia,PA,19106,Major Donor,Martinez Household
+Thomas,Anderson,tanderson@email.com,215-555-0505,567 Chestnut St,Philadelphia,PA,19102,Major Donor,Anderson Household
+Emily,Anderson,eanderson@email.com,215-555-0505,567 Chestnut St,Philadelphia,PA,19102,Major Donor,Anderson Household
+William,Taylor,wtaylor@email.com,856-555-0606,890 Birch Drive,Moorestown,NJ,08057,Major Donor,Taylor Household
+Susan,Taylor,staylor@email.com,856-555-0606,890 Birch Drive,Moorestown,NJ,08057,Major Donor,Taylor Household
+Daniel,Brown,dbrown@email.com,215-555-0707,123 Spruce Ave,Philadelphia,PA,19147,Mid-Level,Brown Household
+Rachel,Brown,rbrown@email.com,215-555-0707,123 Spruce Ave,Philadelphia,PA,19147,Mid-Level,Brown Household
+Kevin,Garcia,kgarcia@email.com,856-555-0808,456 Cedar Road,Camden,NJ,08103,Mid-Level,Garcia Household
+Lauren,Garcia,lgarcia@email.com,856-555-0808,456 Cedar Road,Camden,NJ,08103,Mid-Level,Garcia Household
+Steven,Wilson,swilson@email.com,267-555-0909,789 Oak Court,Philadelphia,PA,19148,Mid-Level,Wilson Household
+Michelle,Wilson,mwilson@email.com,267-555-0909,789 Oak Court,Philadelphia,PA,19148,Mid-Level,Wilson Household
+Christopher,Lee,clee@email.com,215-555-1010,234 Elm Street,Philadelphia,PA,19107,Mid-Level,Lee Household
+Amanda,Lee,alee@email.com,215-555-1010,234 Elm Street,Philadelphia,PA,19107,Mid-Level,Lee Household
+Sarah,Mitchell,smitchell@email.com,215-555-1111,567 Market St Apt 3B,Philadelphia,PA,19103,Annual Fund,Recent graduate
+Alex,Rodriguez,arodriguez@email.com,267-555-1212,890 Broad St Apt 5C,Philadelphia,PA,19107,Annual Fund,Young professional
+Jessica,Thompson,jthompson@email.com,856-555-1313,123 Main Ave,Collingswood,NJ,08108,Annual Fund,Grateful patient family
+Ryan,Davis,rdavis@email.com,215-555-1414,456 South St,Philadelphia,PA,19147,Sustainer,Monthly donor
+Nicole,White,nwhite@email.com,267-555-1515,789 Arch St Apt 12A,Philadelphia,PA,19106,Sustainer,Monthly donor
+Brandon,Harris,bharris@email.com,856-555-1616,234 Cooper St,Camden,NJ,08102,Annual Fund,Community supporter
+Melissa,Clark,mclark@email.com,215-555-1717,567 Locust St,Philadelphia,PA,19106,Sustainer,Monthly donor
+Justin,Lewis,jlewis@email.com,267-555-1818,890 Vine St Apt 7D,Philadelphia,PA,19107,Annual Fund,Event attendee
+Ashley,Walker,awalker@email.com,856-555-1919,123 Park Blvd,Cherry Hill,NJ,08034,Annual Fund,Social media referral
+Tyler,Hall,thall@email.com,215-555-2020,456 Race St,Philadelphia,PA,19106,Sustainer,Quarterly donor
+Rebecca,Allen,rallen@email.com,267-555-2121,789 Spruce St Apt 4B,Philadelphia,PA,19107,Annual Fund,First-time donor
+Jordan,Young,jyoung@email.com,856-555-2222,234 Atlantic Ave,Haddonfield,NJ,08033,Annual Fund,Community supporter
+Samantha,King,sking@email.com,215-555-2323,567 Walnut St,Philadelphia,PA,19106,Sustainer,Monthly donor
+Matthew,Wright,mwright@email.com,267-555-2424,890 Chestnut St Apt 9C,Philadelphia,PA,19107,Annual Fund,Young professional
+Elizabeth,Lopez,elopez@email.com,856-555-2525,123 Kings Highway,Haddon Heights,NJ,08035,Annual Fund,Grateful patient
